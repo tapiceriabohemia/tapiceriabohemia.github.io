@@ -19,4 +19,5 @@ const toImage = (imageNumber) => {
 	}, 6000);
 };
 
-toImage(1);
+header.style.backgroundImage = `url(/img/header-bg-${Math.floor(Math.random() * 5)}.jpg)`;
+toImage(Math.floor(Math.random() * 5));
