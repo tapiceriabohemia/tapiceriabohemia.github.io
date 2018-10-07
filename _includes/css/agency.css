@@ -269,13 +269,18 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/header-bg-0.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+	-o-background-size: cover;
+}
+header .container {
+	width: 100%;
+	transition: background 0.5s linear;
+	-webkit-transition: background 1.5s linear;
 }
 
 header .intro-text {
