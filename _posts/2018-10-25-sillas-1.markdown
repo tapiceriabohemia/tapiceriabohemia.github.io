@@ -1,0 +1,11 @@
+---
+title: Sillas completas para comedor
+subtitle: Sillas
+layout: default
+modal-id: 1
+img: sillas_1.jpg
+thumbnail: sillas_1.jpg
+alt: sillas_1
+category: sillas
+description: Preciosas sillas
+---

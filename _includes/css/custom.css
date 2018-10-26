@@ -1,0 +1,12 @@
+.portfolio-link img {
+	height: 14em;
+}
+
+.portfolio-item .portfolio-caption {
+	height: 7.5em;
+}
+
+.portfolio-item .portfolio-link {
+	background-color: #fff;
+    padding-top: 0.5em;
+}

@@ -359,19 +359,19 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#portfolio .portfolio-item {
+#disenos .portfolio-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#disenos .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+#disenos .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -383,11 +383,11 @@ section h3.section-subheading {
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+#disenos .portfolio-item .portfolio-link .portfolio-hover:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+#disenos .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -398,16 +398,16 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#disenos .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#disenos .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+#disenos .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+#disenos .portfolio-item .portfolio-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
@@ -415,24 +415,24 @@ section h3.section-subheading {
     background-color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+#disenos .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption p {
+#disenos .portfolio-item .portfolio-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
 }
 
-#portfolio * {
+#disenos * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    #disenos .portfolio-item {
         margin: 0 0 30px;
     }
 }
@@ -661,68 +661,68 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
+section#contacto {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
 
-section#contact .section-heading {
+section#contacto .section-heading {
     color: #fff;
 }
 
-section#contact .form-group {
+section#contacto .form-group {
     margin-bottom: 25px;
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+section#contacto .form-group input,
+section#contacto .form-group textarea {
     padding: 20px;
 }
 
-section#contact .form-group input.form-control {
+section#contacto .form-group input.form-control {
     height: auto;
 }
 
-section#contact .form-group textarea.form-control {
+section#contacto .form-group textarea.form-control {
     height: 236px;
 }
 
-section#contact .form-control:focus {
+section#contacto .form-control:focus {
     border-color: #{{ site.data.template.color.primary }};
     box-shadow: none;
 }
 
-section#contact::-webkit-input-placeholder {
+section#contacto::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-moz-placeholder {
+section#contacto:-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact::-moz-placeholder {
+section#contacto::-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-ms-input-placeholder {
+section#contacto:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact .text-danger {
+section#contacto .text-danger {
     color: #e74c3c;
 }
 

@@ -1,0 +1,11 @@
+---
+title: Sofas a conjunto con un reposapiés
+subtitle: Sofas
+layout: default
+modal-id: 3
+img: sofas_2.jpg
+thumbnail: sofas_2.jpg
+alt: sofas_2
+category: sofas
+description: Dos sofas que, junto a su reposapiés, quedaron estupendos al lado de su mesita.
+---

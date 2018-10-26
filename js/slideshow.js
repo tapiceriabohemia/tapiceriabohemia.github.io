@@ -38,6 +38,16 @@ const transitionToImage = (imageNumber) => {
 const init = () => {
 	const firstImageNumber = getRandomImageNumber();
 
+	for (let i = 0; i < 5; i++) {
+		if (firstImageNumber == i) {
+			continue;
+		}
+
+		const img = new Image();
+
+		img.src = `/img/header-bg-${i}.jpg`;
+	}
+
 	setBackgroundImageNumber(firstImageNumber);
 	transitionToImage(getRandomImageNumber(firstImageNumber));
 };

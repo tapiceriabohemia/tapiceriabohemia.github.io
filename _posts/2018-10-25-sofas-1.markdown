@@ -1,0 +1,12 @@
+---
+title: Sofa de 3 plazas con cojines
+subtitle: Sofas
+layout: default
+modal-id: 2
+img: sofas_1_a.jpg
+img_2: sofas_1_a.jpg
+thumbnail: sofas_1_a.jpg
+alt: sofas_1
+category: sofas
+description: Un sofa amplio quedo perfecto al combinar los colores con los cogines
+---
