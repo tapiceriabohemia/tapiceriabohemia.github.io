@@ -1,5 +1,6 @@
 ---
 title: Butacas
+subtitle: Sofas
 layout: default
 modal-id: 1
 img: sofas-photo-20181129210750.jpg
