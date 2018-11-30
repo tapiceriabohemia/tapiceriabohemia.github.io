@@ -1,6 +1,6 @@
 ---
-title: Sofa de 3 plazas con cojines
-subtitle: Sofas
+title: Sofá de 3 plazas con cojines
+subtitle: Sofás
 layout: default
 modal-id: 2
 img: sofas_1_a.jpg
@@ -8,5 +8,5 @@ img_2: sofas_1_a.jpg
 thumbnail: sofas_1_a.jpg
 alt: sofas_1
 category: sofas
-description: Un sofa amplio quedo perfecto al combinar los colores con los cojines
+description: Un sofá amplio quedó perfecto al combinar los colores con los cojines.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Butacas
-subtitle: Sofas
+subtitle: Sofás
 layout: default
 modal-id: 1
 img: sofas-photo-20181129210750.jpg
@@ -8,6 +8,6 @@ img_2: sofas-photo-20181129210750.jpg
 thumbnail: sofas-photo-20181129210750.jpg
 alt: sofas-photo-20181129210750.jpg
 category: sofas
-description: Butacones en marrón para una bonita sala de estar
+description: Butacones en marrón para una bonita sala de estar.
 ---
 	
