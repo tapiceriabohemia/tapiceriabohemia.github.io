@@ -1,6 +1,6 @@
 ---
 title: Sofá y butaca a juego
-subtitle: SOFAS
+subtitle: Sofás
 layout: default
 modal-id: 1
 img: sofas-photo-20181130104700.jpg
